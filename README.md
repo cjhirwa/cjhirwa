@@ -3,8 +3,7 @@
 [![github](https://img.shields.io/github/followers/hicodev-rw?logo=github&style=plastic)](https://github.com/hicodev-rw?tab=followers)
 
 
-
-👋 Hi, I’m Jean Claude — a Software Engineer, AI Engineer, and Business Strategist passionate about building intelligent systems that drive meaningful impact.
+👋 Hi, I’m Jean Claude, a Software Engineer, AI Engineer, and Business Strategist passionate about building intelligent systems that drive meaningful impact.
 
 With a strong foundation in full-stack development and applied AI, I specialize in designing and deploying robust, scalable solutions that combine software engineering best practices with modern machine learning techniques. My focus areas include large language models (LLMs), retrieval-augmented generation (RAG), LangChain-based agents, and ML frameworks such as PyTorch and TensorFlow.
 
@@ -13,13 +12,13 @@ I’m particularly interested in leveraging AI to solve high-leverage problems i
 * 🧠 AI agents for knowledge retrieval and decision support
 * ⚙️ Workflow automation using n8n and low-code tools
 * 📚 Research tools powered by LLMs and vector databases
-* 🌐 Flask- and Node.js-based backend systems with OpenAI-compatible APIs
+* 🌐 Flask and Node.js based backend systems with OpenAI-compatible APIs
 * 🤖 RAG pipelines with vLLM inference backends, custom embeddings, and fine-tuned control over generation
 * 📈 Strategies for deploying AI at scale in business and development contexts
 
-I bring a strategic lens to every project, blending technical architecture with user-centered thinking. Whether it's designing user journeys, optimizing value delivery, or crafting GTM strategies, I aim to build systems that are not just functional, but transformative.
+I bring a strategic lens to every project, blending technical architecture with user-centered thinking. Whether it is designing user journeys, optimizing value delivery, or crafting GTM strategies, I aim to build systems that are not just functional but transformative.
 
-🧭 My long-term mission is to bridge advanced technology and real-world utility — especially within Africa’s innovation ecosystem — by contributing to open-source, collaborating on forward-thinking products, and mentoring others along the way.
+🧭 My long-term mission is to bridge advanced technology and real-world utility, especially within Africa’s innovation ecosystem, by contributing to open-source, collaborating on forward-thinking products, and mentoring others along the way.
 
 ---
 
