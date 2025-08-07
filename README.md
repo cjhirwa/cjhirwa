@@ -26,10 +26,6 @@ I bring a strategic lens to every project, blending technical architecture with 
 Feel free to explore my repositories or reach out to discuss AI infrastructure, product strategy, or technical partnerships.
 
 ---
-
-## 
-![](https://komarev.com/ghpvc/?username=cjhirwa)
-<br />
 <br />
 
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
