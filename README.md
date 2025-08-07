@@ -27,11 +27,6 @@ Feel free to explore my repositories or reach out to discuss AI infrastructure, 
 
 ---
 
-## Public GitHub statistics<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hicodev-rw&show_icons=true&theme=blue-green) <br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hicodev-rw&layout=compact&theme=blue-green)](https://github.com/hicodev-rw/github-readme-stats)
-<br/><br/>
-
 ## 
 ![](https://komarev.com/ghpvc/?username=cjhirwa)
 <br />
