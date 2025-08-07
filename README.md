@@ -50,5 +50,5 @@ Feel free to explore my repositories or reach out to discuss AI infrastructure, 
 <br />
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/vscode-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/code-%231572B6.svg?style=for-the-badge&logo=code&logoColor=white)
 
