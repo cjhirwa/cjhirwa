@@ -33,7 +33,7 @@ Feel free to explore my repositories or reach out to discuss AI infrastructure, 
 <br/><br/>
 
 ## 
-![](https://komarev.com/ghpvc/?username=hicodev-rw)
+![](https://komarev.com/ghpvc/?username=cjhirwa)
 <br />
 <br />
 
@@ -54,11 +54,3 @@ Feel free to explore my repositories or reach out to discuss AI infrastructure, 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cjhirwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://rw.linkedin.com/in/cjhirwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/cjhirwa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40"/></a>
-</p>
