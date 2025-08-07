@@ -21,11 +21,6 @@ I bring a strategic lens to every project, blending technical architecture with 
 🧭 My long-term mission is to bridge advanced technology and real-world utility, especially within Africa’s innovation ecosystem, by contributing to open-source, collaborating on forward-thinking products, and mentoring others along the way.
 
 ---
-
-**Let’s connect or collaborate.**
-Feel free to explore my repositories or reach out to discuss AI infrastructure, product strategy, or technical partnerships.
-
----
 <br />
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
