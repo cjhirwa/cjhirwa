@@ -12,7 +12,7 @@ I’m particularly interested in leveraging AI to solve high-leverage problems i
 * 🧠 AI agents for knowledge retrieval and decision support
 * ⚙️ Workflow automation using n8n and low-code tools
 * 📚 Research tools powered by LLMs and vector databases
-* 🌐 Flask and Node.js based backend systems with OpenAI-compatible APIs
+* 🌐 Python based backend systems with OpenAI-compatible APIs
 * 🤖 RAG pipelines with vLLM inference backends, custom embeddings, and fine-tuned control over generation
 * 📈 Strategies for deploying AI at scale in business and development contexts
 
